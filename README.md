@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+## Career Objective
 
-You can use the [editor on GitHub](https://github.com/SamWinterhalder/SamWinteralder.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I am currently a second year Computer Science student, who is interested in backend software development and cyber security, looking to put my strong skills and work ethic to good use.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Education
+**BSc COMPUTER SCIENCE** with Security and Forensics <br>
+*Cardiff University, Wales / September 2019 - est. July 2023 (2:1)*
+- Maths for Computer Science: 88%
+- Computational Thinking: 77%
 
-### Markdown
+**A-Levels**
+*Bishop Luffa Sixth Form, Chichester / September 2017 - July 2019*
+- Maths: B
+- Chemistry: C
+- Computer Science: C
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<br>
 
-```markdown
-Syntax highlighted code block
+## Work Experience
+**Volunteer Python Developer**
+*Geek.Zone / December 2020 - present*
+- Responsible for the development and maintenance of software at Geek.Zone
 
-# Header 1
-## Header 2
-### Header 3
+<br>
 
-- Bulleted
-- List
+### Development Projects
+**Geek.Zone/web**
+*github.com/GeekZoneHQ/web*
+Geek.Zone is a non-profit community for ‘geeks’. GeekZoneHQ/web is the current repository for the development of the website. For me, this mostly involves the handling of Stripe payments and management of members using Django/Python. 
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SamWinterhalder/SamWinteralder.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+todo:
+- skills
+- contact
+- interests
