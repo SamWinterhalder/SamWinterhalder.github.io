@@ -5,7 +5,7 @@ I am currently a second year Computer Science student, who is interested in back
 
 ## Development Projects <br>
 **Geek.Zone/web** <br>
-*github.com/GeekZoneHQ/web* <br>
+[*github.com/GeekZoneHQ/web*](https://github.com/GeekZoneHQ/web) <br>
 Geek.Zone is a non-profit community for ‘geeks’. GeekZoneHQ/web is the current repository for the development of the website. For me, this mostly involves the handling of Stripe payments and management of members using Django/Python. <br>
 
 ---
