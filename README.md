@@ -13,7 +13,11 @@ Geek.Zone is a non-profit community for ‘geeks’. GeekZoneHQ/web is the curre
 ## Work Experience <br>
 **Volunteer Python Developer** <br>
 *Geek.Zone / December 2020 - present* <br>
-- Responsible for the development and maintenance of software at Geek.Zone <br>
+- Responsible for the development and maintenance of software for a mental health charity
+- Contributed toward the Stripe (payment processor) Integration team as the lead project manager
+- Graceful handling of payments made via Stripe
+- Experience in using RabbitMQ and Celery for queueing of emails
+- Developing interpersonal and communication skills by working in an asynchronous, remote team
 
 ---
 
